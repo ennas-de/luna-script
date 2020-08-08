@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - front end
 
 ```
-
+npm run dev
 ```
 
 - back end
